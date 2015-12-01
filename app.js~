@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 
 var dbOptions = {
      host: 'localhost',
-      user: 'root',
+      user: 'green_grocer',
       password: 'password',
       port: 3306,
       database: 'pictures'
